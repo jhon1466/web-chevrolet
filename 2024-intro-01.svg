@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2a292b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        stroke: #e0e0e0;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="85.7" y="169.4" width="326.4" height="135.2"/>
+    </clipPath>
+  </defs>
+  <g id="Elipse_4" data-name="Elipse 4">
+    <ellipse class="cls-1" cx="250" cy="250" rx="251" ry="250"/>
+    <ellipse class="cls-3" cx="250" cy="250" rx="249" ry="247.9"/>
+  </g>
+  <g id="Grupo_1915" data-name="Grupo 1915">
+    <line id="Línea_33" data-name="Línea 33" class="cls-2" x1="281.4" y1="284.5" x2="215.9" y2="284.5"/>
+    <g id="Grupo_1914" data-name="Grupo 1914">
+      <g class="cls-4">
+        <g id="Grupo_1913" data-name="Grupo 1913">
+          <circle id="Elipse_2" data-name="Elipse 2" class="cls-2" cx="165.1" cy="274.3" r="25.6"/>
+          <circle id="Elipse_3" data-name="Elipse 3" class="cls-2" cx="332.2" cy="274.3" r="25.6"/>
+          <line id="Línea_34" data-name="Línea 34" class="cls-2" x1="106.9" y1="283.2" x2="90.5" y2="283.2"/>
+          <path id="Trazado_3562" data-name="Trazado 3562" class="cls-2" d="M380.6,283.2l26.8-4.8v-22.6l-9.8-5v-29.3h-32.5c-3.5,0-7-1.3-9.6-3.7l-34.6-31.4c-8.7-7.9-20.1-12.4-31.9-12.4h-45.5c-9.1,0-18,2.6-25.6,7.5l-54.4,34.8c-1.4.9-2.9,1.4-4.4,1.7l-47,7.8c-9.3,1.6-16.2,9.6-16.2,19.1v38.1h21.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
